@@ -60,7 +60,7 @@ Formulário para criação de conta.
 
 ## 🔮 Melhorias Futuras
 
-* Melhor o design
+* Melhorar o design
 * Fazer as demais telas do protótipo
 * Implementar funcionalidades completas do protótipo
 * Criar sistema de criação, edição e exclusão de cards
