@@ -15,11 +15,11 @@ Você pode acessar o protótipo utilizado como base para o desenvolvimento neste
 
 ## 👥 Integrantes do Grupo
 
-* **Murilo Dias** – Responsável pela tela principal, estruturação e organização do projeto
-* **Julia Evelyn de Oliveira** – Responsável pela tela de boas-vindas e auxílio na organização do projeto
-* **Artur Gabriel Paes Barbosa** – Responsável pela tela de escolha entre login e cadastro
-* **Lucas Renan Araujo Santos** – Responsável pela tela de cadastro
-* **Rodrigo Wollenberg de Souza Ramos** – Responsável pela tela de login
+* **Murilo Dias**
+* **Julia Evelyn de Oliveira**
+* **Artur Gabriel Paes Barbosa**
+* **Lucas Renan Araujo Santos**
+* **Rodrigo Wollenberg de Souza Ramos**
 
 ## 🚀 Tecnologias Utilizadas
 
